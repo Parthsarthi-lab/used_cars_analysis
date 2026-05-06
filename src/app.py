@@ -14,5 +14,5 @@ price_range = st.sidebar.slider("Price Range", 0, 100000, (500, 50000))
 
 # Filtered Chart
 filtered_df = df[df['brand'].isin(brand)]
-fig = px.scatter(filtered_df, x='age', y='price', color='brand')
+fig = px.scatter(filtered_df, x='year', y='price', color='brand')
 st.plotly_chart(fig)
