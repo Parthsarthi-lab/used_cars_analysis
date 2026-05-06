@@ -78,6 +78,8 @@ These methods form the analytical foundation of this repository.
   <img src="plots/report.gif" width="700">
 </p>
 
+[View Full Report](reports/Used%20Car%20Market%20Analysis.pdf)
+
 This repository is designed not only as a coding project, but also as a demonstration of professional analytical communication.
 
 In real-world industry environments, data scientists and analysts are expected to:
@@ -243,10 +245,9 @@ This highlights the importance of:
 
 ## Parthsarthi Joshi
 
-- LinkedIn: 
-- Portfolio: 
-- GitHub: 
-
+- LinkedIn: [Parthsarthi Joshi](https://www.linkedin.com/in/parthsarthi-joshi-653121230/)
+- Portfolio: [My Portfolio](https://yourportfolio.com)
+- GitHub: [vijAI Official](https://github.com/Parthsarthi-lab)
 ---
 
 # ⭐ Final Note
